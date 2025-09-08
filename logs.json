@@ -1,0 +1,22 @@
+{"logID":"6498c660-317a-4dd3-94fb-d4fe0def3173","timestamp":"2025-09-08T10:45:25.173Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"8abfe120-14f3-4fa3-ab11-a9fee525e4ba","timestamp":"2025-09-08T10:47:53.651Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"1f342aa9-abd2-4004-9111-7a5d8aef80e1","timestamp":"2025-09-08T10:48:15.874Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"e1824da3-983b-4a35-9375-af19f4fd8d4b","timestamp":"2025-09-08T10:49:44.027Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"4fe2fdf9-042a-4815-8f3c-7cba15d91b97","timestamp":"2025-09-08T10:53:57.782Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"9c71dc6f-726c-41cb-a30f-8c4aac94ef50","timestamp":"2025-09-08T10:54:31.410Z","stack":"backend","level":"info","package":"handler","message":"Short URL created successfully"}
+{"logID":"d5a7ced0-3b37-4578-bc30-526c1fc4dce3","timestamp":"2025-09-08T10:56:00.083Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"1f0574b2-563d-4045-8219-b08014676e7c","timestamp":"2025-09-08T10:56:03.727Z","stack":"backend","level":"info","package":"handler","message":"Short URL created successfully"}
+{"logID":"ad918db5-f51d-4b58-8f75-4997ecaa4f3e","timestamp":"2025-09-08T10:57:39.352Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"7997cd7d-f670-449b-bfee-b2fca9a0d1b8","timestamp":"2025-09-08T10:57:43.376Z","stack":"backend","level":"info","package":"handler","message":"Short URL created for myLink123"}
+{"logID":"6fa24e7b-9736-47b5-a92b-324b7b51b7e1","timestamp":"2025-09-08T10:58:17.502Z","stack":"backend","level":"info","package":"handler","message":"Short URL created for 3w3vsh"}
+{"logID":"0f085019-2264-4282-8067-646efc093a55","timestamp":"2025-09-08T10:58:56.257Z","stack":"backend","level":"info","package":"handler","message":"Short URL created for pk6xfa"}
+{"logID":"af9501e5-3d6f-40ad-a93d-ff4ade20e4b0","timestamp":"2025-09-08T10:59:58.676Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"3e3907ec-7ad8-4008-9851-b55049ca8259","timestamp":"2025-09-08T11:00:06.966Z","stack":"backend","level":"info","package":"handler","message":"Short URL created for uquz3o"}
+{"logID":"d8a15351-2573-4e63-b723-f0f74e789820","timestamp":"2025-09-08T11:00:57.505Z","stack":"backend","level":"info","package":"handler","message":"Short URL created for myLink123"}
+{"logID":"ecb6f62a-cf7b-417a-a63f-929ec201e57d","timestamp":"2025-09-08T11:10:43.357Z","stack":"backend","level":"info","package":"server","message":"Server running on http://localhost:3000"}
+{"logID":"d7834e3f-925d-472b-82a7-c6c85e9702de","timestamp":"2025-09-08T11:11:44.329Z","stack":"backend","level":"info","package":"handler","message":"Short URL created for mylink123"}
+{"logID":"ed36155d-1e95-4998-b9fd-c978f08e3ab7","timestamp":"2025-09-08T11:12:20.369Z","stack":"backend","level":"error","package":"handler","message":"Shortcode :myLink123 not found"}
+{"logID":"d081d5a6-247b-4545-a32e-15f811160db1","timestamp":"2025-09-08T11:12:27.625Z","stack":"backend","level":"error","package":"handler","message":"Shortcode :mylink123 not found"}
+{"logID":"d4938a97-dc34-4789-b572-4371d846d8fd","timestamp":"2025-09-08T11:12:28.766Z","stack":"backend","level":"error","package":"handler","message":"Shortcode :mylink123 not found"}
+{"logID":"bf6e63e7-8dbe-4cbb-8535-19846373b629","timestamp":"2025-09-08T11:12:43.393Z","stack":"backend","level":"error","package":"handler","message":"Shortcode :mylink123 not found"}
+{"logID":"4ac6aa0e-d9c4-49d6-af82-a215f2c66b75","timestamp":"2025-09-08T11:14:21.705Z","stack":"backend","level":"error","package":"handler","message":"Shortcode :mylink123 not found"}
